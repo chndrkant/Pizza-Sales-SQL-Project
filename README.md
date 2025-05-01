@@ -76,7 +76,8 @@ We answered 12 key business questions using SQL, visualized insights with Python
 
 ## 📄 Final Report PDF
 
-📥 **[Download Final MAANG-Style Report (PDF)](./report/ChanderKant_Pizza_SQL_Clean_Linked_Report_FINAL_WithCharts.pdf)**  
+📥 **[📄 Download Final MAANG-Style Report (PDF)](https://github.com/chndrkant/Pizza-Sales-SQL-Project/blob/main/report/ChanderKant_Pizza_SQL_Clean_Linked_Report_FINAL.pdf)**
+  
 Includes charts, insights, ER diagram, and recommendations
 
 ---
